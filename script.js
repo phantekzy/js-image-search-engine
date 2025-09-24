@@ -3,7 +3,7 @@
 // ============================
 
 // Unsplash API Access Key
-const accessKey = "wSeei1UPwFD5_Uen19FMwo3HF6PjVoX2fGnOXkiNuiI";
+const accessKey = "YOUR API";
 
 // DOM Elements
 let searchForm = document.getElementById('search-form');
